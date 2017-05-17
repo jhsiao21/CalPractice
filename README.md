@@ -1,5 +1,5 @@
 # CalPractice
-Using objective-C to practice a calculator app.
+A simple calculator app is written in objective-c.
 
 ### 練習目標
 
